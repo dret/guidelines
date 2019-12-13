@@ -1,4 +1,4 @@
-# API Guidelines Examples in the Wild
+# API Guideline Examples in the Wild
 
 ## Overviews
 
