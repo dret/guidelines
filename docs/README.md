@@ -15,6 +15,7 @@
 * [Atlassian REST API design guidelines](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/)
 * [Australian Digital Transformation Office](https://apiguide.readthedocs.io/en/latest/)
 * [Cisco Guidelines for designing REST APIs](https://github.com/CiscoDevNet/api-design-guide)
+* [Cloud Foundry Style Guide for Cloud Controller v3 API](https://github.com/cloudfoundry/cc-api-v3-style-guide)
 * [Google API Design Guide](https://cloud.google.com/apis/design/)
 * [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide)
 * [Heroku HTTP API Design Guide](https://github.com/interagent/http-api-design)
