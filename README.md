@@ -1,2 +1,3 @@
-# guidelines
+# Guidelines
+
 API Guidelines book
