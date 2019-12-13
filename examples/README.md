@@ -8,4 +8,4 @@
 ## Individual Guidelines
 
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md )
-* [API Designrules (Nederlandse API Strategie IIa)](https://geonovum.github.io/API-Designrules/) and [API Designrules Extensions (Nederlandse API Strategie IIb)](https://geonovum.github.io/KP-APIs/API-strategie-extensies)
+* Nederlandse API Designrules: [API Designrules (Nederlandse API Strategie IIa)](https://geonovum.github.io/API-Designrules/) and [API Designrules Extensions (Nederlandse API Strategie IIb)](https://geonovum.github.io/KP-APIs/API-strategie-extensies)
