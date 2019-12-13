@@ -1,6 +1,6 @@
 # API Guideline Examples in the Wild
 
-## Overviews
+## Compilations
 
 * [API Stylebook](http://apistylebook.com/design/guidelines/)
 
