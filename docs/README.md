@@ -16,6 +16,7 @@
 * [Australian Digital Transformation Office](https://apiguide.readthedocs.io/en/latest/)
 * [Cisco Guidelines for designing REST APIs](https://github.com/CiscoDevNet/api-design-guide)
 * [Google API Design Guide](https://cloud.google.com/apis/design/)
+* [Heroku HTTP API Design Guide](https://github.com/interagent/http-api-design)
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md )
 * Nederlandse API Designrules: [API Designrules (Nederlandse API Strategie IIa)](https://geonovum.github.io/API-Designrules/) and [API Designrules Extensions (Nederlandse API Strategie IIb)](https://geonovum.github.io/KP-APIs/API-strategie-extensies)
 * [PayPal API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
