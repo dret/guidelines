@@ -13,4 +13,5 @@
 * [Adidas API Guidelines](https://github.com/adidas/api-guidelines)
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md )
 * Nederlandse API Designrules: [API Designrules (Nederlandse API Strategie IIa)](https://geonovum.github.io/API-Designrules/) and [API Designrules Extensions (Nederlandse API Strategie IIb)](https://geonovum.github.io/KP-APIs/API-strategie-extensies)
+* [White House Web API Standards](https://github.com/WhiteHouse/api-standards)
 * [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
