@@ -11,6 +11,7 @@
 ## Individual Guidelines
 
 * [Adidas API Guidelines](https://github.com/adidas/api-guidelines)
+* [Google API Design Guide](https://cloud.google.com/apis/design/)
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md )
 * Nederlandse API Designrules: [API Designrules (Nederlandse API Strategie IIa)](https://geonovum.github.io/API-Designrules/) and [API Designrules Extensions (Nederlandse API Strategie IIb)](https://geonovum.github.io/KP-APIs/API-strategie-extensies)
 * [PayPal API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
