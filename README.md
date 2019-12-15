@@ -1,3 +1,3 @@
 # Guidelines
 
-API Guidelines book
+* [Published Guidelines Site](https://dret.github.io/guidelines/)
