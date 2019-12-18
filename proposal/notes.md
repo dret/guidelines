@@ -16,4 +16,8 @@
 
 - contribution process should be well-defined and scalable (revisit frequently to make sure guideline growth is healthy and meaningful)
 
-- connecting with "external resources" such as documents, standards, tooling, ...
+- connecting with "external resources" such as:
+ - documents ("standards" set by the organization)
+ - standards (actual standards established externally)
+ - profiles (org-specific ways of using standards, mentioning RFC 6906 and https://www.w3.org/TR/2019/NOTE-dx-prof-20191218/)
+ - tooling (links to documented organization tools)
