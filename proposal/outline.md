@@ -4,7 +4,7 @@
 
 1. Part I: Why API Guidelines
  1. The Big Picture: Digital Transformation, API Strategy, API Programs, and API Guidelines
- 1. API Guidelines as Emerging Practice
+ 1. API Guidelines as Emerging and Evolving Practice
  1. Helping Teams on their API Journeys
 
 1. Part II: API Guidelines as a Product
