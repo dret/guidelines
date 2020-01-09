@@ -23,6 +23,6 @@
  1. The Editorial Role for Guideline Management
  
 1. Part V: Platforms and Processes
- 1. Using GitHub as API Guideline Platforms
+ 1. Using GitHub as API Guideline Platform
  1. Managing Guideline Contributions on GitHub
  1. From Editorial Models to Open Source
