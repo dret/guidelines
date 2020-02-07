@@ -10,6 +10,7 @@
 
 ## Individual Guidelines
 
+* [Adello API Styleguide](https://github.com/adello/api-style-guide)
 * [Adidas API Guidelines](https://github.com/adidas/api-guidelines)
 * [APIOps Cycles REST API Design Guide](https://www.apiopscycles.com/rest-api-design-guide)
 * [Atlassian REST API design guidelines](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/)
