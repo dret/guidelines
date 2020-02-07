@@ -13,6 +13,7 @@
  1. Focusing on Participation and UX
 
 1. Part III: Structuring Guidelines
+ 1. Coverage: What Guidance is Necessary?
  1. The Rule of Two: There is no Best Practice
  1. Why, What, How, and Test: The Structure of a Guideline
  1. Additional Metadata for Better Guideline Management
