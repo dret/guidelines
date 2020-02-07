@@ -14,6 +14,7 @@
 * [APIOps Cycles REST API Design Guide](https://www.apiopscycles.com/rest-api-design-guide)
 * [Atlassian REST API design guidelines](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/)
 * [Australian Digital Transformation Office](https://apiguide.readthedocs.io/en/latest/)
+* [Belgium G-Cloud REST Guidelines](https://www.gcloud.belgium.be/rest/)
 * [Canada Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249): [Mandatory Procedures for Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=D)
 * [Cisco Guidelines for designing REST APIs](https://github.com/CiscoDevNet/api-design-guide)
 * [Cloud Foundry Style Guide for Cloud Controller v3 API](https://github.com/cloudfoundry/cc-api-v3-style-guide)
