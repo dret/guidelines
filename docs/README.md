@@ -1,4 +1,4 @@
-# API Guideline Examples in the Wild
+# API Guidelines in the Wild
 
 *API Guidelines* are one of the important ingredients of an API program. They are the representation of the API culture of an organization. Here are some examples of API guidelines in the wild:
 
