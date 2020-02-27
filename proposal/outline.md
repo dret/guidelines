@@ -23,6 +23,9 @@
     Guidelines should be treated as a product. Start with a minimal set of guidelines distilled from existing practice (i.e., it reflects reality) and a minimal process. Build the product focusing on DX (i.e., your API product teams are the product users), making it easy to find guidelines, to get a view that fits their needs, to understand how the product works (how can they contribute?), and to contribute to the guidelines.
  
  1. From MVP to User-Driven Development
+ 
+    Release simple guidelines as soon as possible. There are many to choose from. You probably should cover the following areas to make sure that everybody feels represented: Technical design, ... Monitor usage and utility of the guidelines as much as possible. Ideally, API products can reference guidelines and this can be made part of the description and the deployment pipeline. Then you have a link between API guidelines and API products, allowing to explore how guidelines are used by teams (Requirement: stable identifiers for guidelines).
+    
  1. Focusing on Participation and UX
 
 1. Part III: Structuring Guidelines
