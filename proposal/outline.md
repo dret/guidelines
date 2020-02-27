@@ -53,6 +53,9 @@
     Guidelines are a shared resource and thus should be managed like this. Ideally, they follow the spirit of open source projects with open code and tooling, and a core team of contributors that has special roles and tasks. It seems that GitHub is the de-facto platform for guidelines today, and that makes a lot of sense because everybody knows it and thus knows how to participate. There may be some additional tooling on top for processing and readability (maybe discuss the Adidas example which uses Gitbooks, a GitHub-based publishing toolkit).
  
  1. Contributing and Commenting
+
+    With guidelines being the "shared API practices", there probably are two main forms of communications they should facilitate. One is to talk *about* the guidelines (exchanging experiences and opinions), and the other is to *work on* the guidelines (with the goal of making changes). Both processes should be supported and well documented, so that both forms of participation are possible and actively encouraged. Fancier versions of this could even consider topics such as "subscribing to a guideline" and then being informed of any changes to it (this may be possible with GitHub and the newer features, I still have to investigate).
+ 
  1. The Editorial Role for Guideline Management
  
 1. Part V: Platforms and Processes
