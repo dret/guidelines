@@ -24,7 +24,7 @@
  
  1. From MVP to User-Driven Development
  
-    Release simple guidelines as soon as possible. There are many to choose from. You probably should cover the following areas to make sure that everybody feels represented: Technical design, ... Monitor usage and utility of the guidelines as much as possible. Ideally, API products can reference guidelines and this can be made part of the description and the deployment pipeline. Then you have a link between API guidelines and API products, allowing to explore how guidelines are used by teams (Requirement: stable identifiers for guidelines).
+    Release simple guidelines as soon as possible. There are many to choose from. You probably should cover the following areas to make sure that everybody feels represented: Technical design, external/internal standards... Monitor usage and utility of the guidelines as much as possible. Ideally, API products can reference guidelines and this can be made part of the description and the deployment pipeline. Then you have a link between API guidelines and API products, allowing to explore how guidelines are used by teams (Requirement: stable identifiers for guidelines).
     
  1. Focusing on Participation and DX
  
