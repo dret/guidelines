@@ -32,7 +32,10 @@
 
 1. Part III: Structuring Guidelines
  1. Coverage: What Guidance is Necessary?
- 1. The Rule of Two: There is no Best Practice
+ 
+    This part will talk about the various areas covered by typical guidelines. I am planning an analysis of the guidelines that I have collected at https://dret.github.io/guidelines/ and create some "buckets" that talk about which areas are typically covered by guidelines. This chapter will also discuss the tension between volume and utility: Too much guidance can be overwhelming and complex to navigate. This can be part of the natural evolution, though: Start classifying and creating "views" for roles when utility seems to be compromised by volume.
+ 
+ 1. The Rule of Two: There is no Best Practice 
  1. Why, What, How, and Test: The Structure of a Guideline
  1. Additional Metadata for Better Guideline Management
 
