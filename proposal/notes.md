@@ -21,3 +21,10 @@
  - standards (actual standards established externally)
  - profiles (org-specific ways of using standards, mentioning RFC 6906 and https://www.w3.org/TR/2019/NOTE-dx-prof-20191218/)
  - tooling (links to documented organization tools)
+
+- talk about automating guideline tests (advantages and limitations)
+
+- clearly address the two main reader groups
+ - API program managers looking for how to manage their guidelines
+ - API teams looking for how to better document and share practices across teams
+ 
