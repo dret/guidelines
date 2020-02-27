@@ -35,8 +35,14 @@
  
     This part will talk about the various areas covered by typical guidelines. I am planning an analysis of the guidelines that I have collected at https://dret.github.io/guidelines/ and create some "buckets" that talk about which areas are typically covered by guidelines. This chapter will also discuss the tension between volume and utility: Too much guidance can be overwhelming and complex to navigate. This can be part of the natural evolution, though: Start classifying and creating "views" for roles when utility seems to be compromised by volume.
  
- 1. The Rule of Two: There is no Best Practice 
+ 1. Good is Better than Best
+
+    There are no "best practices". There are "good practices", and they go through a lifecycle of being proposed, being used experimentally (maybe mention Google's AIP model here), being an accepted good practice, and at some point being deprecated and then retired. API products will be designed and built according to the good practices at the time, so it is important to see guidelines as something living and evolving, and to build this into the way how they are managed.
+  
  1. Why, What, How, and Test: The Structure of a Guideline
+ 
+    Guidelines should have a clear structure because this helps understanding them, and it also helps evolving them. Each guideline must clearly state why it exists (problem statement), and there must be a process how guidelines can simply be retired. The next part is what is proposed as a way to address the problem; there can be various ways (see previous chapter). The next part is how to put this proposed solution into practice, which can be a choice of a standard, a technology, a tool, or whatever helps to follow the guideline; there can be various ways (see previous chapter). The final part is how to validate that the guideline has been followed. Ideally, there may be automated tests, but oftentimes there might be a process in place that also depends on the maturity of the API product, and the intended consumers (again, possible reference to Google AIP model here).
+ 
  1. Additional Metadata for Better Guideline Management
 
 1. Part IV: Sharing and Managing Guidelines
