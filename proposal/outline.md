@@ -44,6 +44,8 @@
     Guidelines should have a clear structure because this helps understanding them, and it also helps evolving them. Each guideline must clearly state why it exists (problem statement), and there must be a process how guidelines can simply be retired. The next part is what is proposed as a way to address the problem; there can be various ways (see previous chapter). The next part is how to put this proposed solution into practice, which can be a choice of a standard, a technology, a tool, or whatever helps to follow the guideline; there can be various ways (see previous chapter). The final part is how to validate that the guideline has been followed. Ideally, there may be automated tests, but oftentimes there might be a process in place that also depends on the maturity of the API product, and the intended consumers (again, possible reference to Google AIP model here).
  
  1. Additional Metadata for Better Guideline Management
+ 
+    It's good to start minimal, but it's also good to start with extensible designs so that the guidelines can evolve. One possible way is to go with a structure that's similar to what Jekyll uses: A YAML preamble and then MD, where the MD probably also needs to follow certain conventions. In the end, guidelines will be a highly structured document with various consumers and processes around them, and the way they are managed should reflect this need for machine-readability.
 
 1. Part IV: Sharing and Managing Guidelines
  1. Guidelines as a Shared Resource
