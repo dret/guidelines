@@ -3,8 +3,12 @@
 ## Outline
 
 1. Part I: Why API Guidelines
- 1. The Big Picture: Digital Transformation, API Strategy, API Programs, and API Guidelines
+ 1. Audience: Who is this Book for?
  
+    This book is for two main audiences: (1) People involved in API programs, which often are teams that have supportive roles of the overall API initiative and program. These people of are organized in teams with names such as *API team*, *API platform team*, *API Center of Excellence*, or *API Center for Enablement*. (2) People involved in API products who want to better understand how to participate in and contribute to the API practice of an organization. Typically, this might include people both with more involvement from the business side (how can we build better APIs so that they will be more successful) as well as the technical side (how can we make it as easy as possible for API product teams to design and develop APIs that fit well into the organizational landscape).
+
+ 1. The Big Picture: Digital Transformation, API Strategy, API Programs, and API Guidelines
+
     This chapter sets the stage for the book: Big orgs want to become faster, understand that for this to happen they need to decentralize with more autonomous teams, and that to make this work on a tech level the new value chains that they are building will be based on APIs. Teams need to understand that APIs matter, they need to understand what matters when they produce and consume APIs, and they need to be supported so that they can focus on creating value. API programs are put into place to create a culture of API production and consumption, and to build an API platform that teams contribute to, and that can be used by both internal and external consumers. API guidelines are the part of the API program that provide guidance why things are done, what is being done, and how it can be done.
  
  1. API Guidelines as Emerging and Evolving Practice
