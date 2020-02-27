@@ -5,7 +5,7 @@
 1. Part I: Why API Guidelines
  1. Audience: Who is this Book for?
  
-    This book is for two main audiences: (1) People involved in API programs, which often are teams that have supportive roles of the overall API initiative and program. These people of are organized in teams with names such as *API team*, *API platform team*, *API Center of Excellence*, or *API Center for Enablement*. (2) People involved in API products who want to better understand how to participate in and contribute to the API practice of an organization. Typically, this might include people both with more involvement from the business side (how can we build better APIs so that they will be more successful) as well as the technical side (how can we make it as easy as possible for API product teams to design and develop APIs that fit well into the organizational landscape).
+    This book is for two main audiences: (1) People involved in API programs, which often are teams that have roles within the overall API initiative and journey of organizations. These people often are organized in teams with names such as *API team*, *API platform team*, *API Center of Excellence*, or *API Center for Enablement*. (2) People involved in API products who want to better understand how to participate in and contribute to the API practice of their organization. Typically, this might include people both with more background from the business side (asking: "how can we build better APIs so that they will be more successful?") as well as the technical side (asking: "how can we make it as easy as possible for API product teams to design and develop APIs that fit well into the organizational landscape?").
 
  1. The Big Picture: Digital Transformation, API Strategy, API Programs, and API Guidelines
 
