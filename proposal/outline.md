@@ -62,5 +62,13 @@
   
 1. Part V: Platforms and Processes
  1. Using GitHub as API Guideline Platform
+ 
+    This chapter takes a deeper dive on using GitHub as a platform. I will select one example from https://dret.github.io/guidelines/ that uses GitHub in a very simple way by just managing a set of markdown documents. The second step is to look at using an publishing platform such as Gitbooks or Jekyll that allows nicer publishing but in its simplest form still is just a generic structured document. The most sophisticated version is to use specific tooling for managing the guidelines: Google's AIP is one example for this, and so is the project that will is being developed for this book.
+ 
  1. Managing Guideline Contributions on GitHub
+    
+    This chapter goes into more details of how a specific platform can help with managing guidelines in a better way. It will be based on the project developed for the book, and will look at various scenarios and how they are supported in that system.
+ 
  1. From Editorial Models to Open Source
+ 
+    This final chapters encourages readers to progress along an evolutionary path. Start with a simple set of guidelines that are machine-readable so that they can be used by tooling. Make sure that this initial approach is extensible and focuses on some of the current pain points in your organization. Then consider moving to a platform that better supports the specific processes around guideline management and contributions. Finally if that platform is open source, then consider building on it whatever else you need. These may be simple tweaks to the platform's features, or integrations with other tooling and platforms that you have.
