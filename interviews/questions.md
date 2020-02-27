@@ -13,4 +13,6 @@
 
 ## Model
 
+- Building blocks? If so, standards, internal ones, or both?
+
 ## Experience
