@@ -28,3 +28,5 @@
  - API program managers looking for how to manage their guidelines
  - API teams looking for how to better document and share practices across teams
  
+- need some research about ADR and C4E and better understand how they relate. There definitely is some kind of link.
+ 
