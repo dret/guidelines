@@ -58,6 +58,8 @@
  
  1. The Editorial Role for Guideline Management
  
+    The value of guidelines largely depends on their utility. In order to make them useful, two main roles are necessary: One is to monitor and improve the way in which guidelines are written, managed, published, and updated. It is unlikely that the same processes will remain useful for a very long time. The second important role is to work on the subject matter and make sure that the guidelines are managed well. There may be simple editorial roles such as cleaning up contributions. But there also are processes such as deciding whether experimental guidelines are becoming accepted practice or not. For this it makes sense to have an "API guild" or to use whatever else an existing organizational structure has to involve practice leaders throughout the organization.
+  
 1. Part V: Platforms and Processes
  1. Using GitHub as API Guideline Platform
  1. Managing Guideline Contributions on GitHub
