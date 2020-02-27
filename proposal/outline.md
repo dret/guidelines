@@ -19,6 +19,9 @@
 
 1. Part II: API Guidelines as a Product
  1. Release Early, Release Often, Listen to your Users
+ 
+    Guidelines should be treated as a product. Start with a minimal set of guidelines distilled from existing practice (i.e., it reflects reality) and a minimal process. Build the product focusing on DX (i.e., your API product teams are the product users), making it easy to find guidelines, to get a view that fits their needs, to understand how the product works (how can they contribute?), and to contribute to the guidelines.
+ 
  1. From MVP to User-Driven Development
  1. Focusing on Participation and UX
 
