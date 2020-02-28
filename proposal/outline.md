@@ -15,7 +15,9 @@
 
     APIs are the language of digital transformation. API guidelines help to design those languages, so that the API landscape of an organization is more coherent than a random collection of APIs. API guidelines help API producers to be more effective, because they can build on established practices and don't have to reinvent the wheel. API guidelines help API consumers because it becomes easier to consume APIs when they are coherently designed. API guidelines help to reduce cost because they make it easier to establish practices that then can be supported with infrastructure and tooling. API guidelines should be participatory (bottom-up) instead of authoritarian (top-down). A good start is to observe the existing landscape ("API archaeology") and to use the results as a starting point. API guidelines should be thought of as a living document where all API practitioners are contributors, and a few people are editors and manage a well-defined contribution process.
  
- 1. Helping Teams on their API Journeys
+ 1. Helping Teams on their API Journey
+ 
+    APIs are the connective fabric of digital transformation. Ideally, teams collaborate through APIs meaning that APIs become an essential organizational communications mechanism that is far more important that just establishing technical connectivity. This means that helping with APIs goes beyond syntax conventions and technology choices. Essentially, caring about API design means being a good citizen in a digital transformation scenario: There are assumptions how to contribute and participate in the evolving landscape of digital capabilities, and if everybody plays along the ecosystems benefits.
 
 1. Part II: API Guidelines as a Product
  1. Release Early, Release Often, Listen to your Users
