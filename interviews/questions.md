@@ -13,6 +13,7 @@
 
 ## Model
 
+- Do you have a way of classifying guidelines for specific areas (technical, product, ...) and/or different audiences?
 - Building blocks? If so, standards, internal ones, or both?
 
 ## Experience
