@@ -18,6 +18,10 @@
  1. Helping Teams on their API Journey
  
     APIs are the connective fabric of digital transformation. Ideally, teams collaborate through APIs meaning that APIs become an essential organizational communications mechanism that is far more important that just establishing technical connectivity. This means that helping with APIs goes beyond syntax conventions and technology choices. Essentially, caring about API design means being a good citizen in a digital transformation scenario: There are assumptions how to contribute and participate in the evolving landscape of digital capabilities, and if everybody plays along the ecosystems benefits.
+    
+  1. Concrete Guidelines: Some Examples
+  
+     This chapter talks a bit about concrete guidelines and introduces both https://dret.github.io/guidelines/ and a few example guidelines that will be used as examples throughout the book. There should be some visual way of marking those sections in the book, so that it becomes clear how these examples are used throughout the book to clearly show how to create and manage guidelines.
 
 1. Part II: API Guidelines as a Product
  1. Release Early, Release Often, Listen to your Users
