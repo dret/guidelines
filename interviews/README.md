@@ -11,5 +11,5 @@
 - [Matthew Reinbold (Capital One)](mailto:hello@matthewreinbold.com)
 - [Olaf Stelter (Daimler Benz)](mailto:olaf.stelter@daimler.com)
 - [Boris Vernoff (ADP)](mailto:boris.vernoff@adp.com)
-- Eric Brewer (Google)
+- [Eric Brewer (Google)](mailto:ebrewer@google.com)
 - [Harold Wiegers (Axway)](mailto:hwiegers@axway.com)
