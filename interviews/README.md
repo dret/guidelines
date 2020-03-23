@@ -12,3 +12,4 @@
 - [Olaf Stelter (Daimler Benz)](mailto:olaf.stelter@daimler.com)
 - [Boris Vernoff (ADP)](mailto:boris.vernoff@adp.com)
 - Eric Brewer (Google)
+- [Harold Wiegers (Axway)](mailto:hwiegers@axway.com)
