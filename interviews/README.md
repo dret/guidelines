@@ -13,4 +13,4 @@
 - [Boris Vernoff (ADP)](mailto:boris.vernoff@adp.com)
 - [Eric Brewer (Google)](mailto:ebrewer@google.com)
 - [Harold Wiegers (Axway)](mailto:hwiegers@axway.com)
-- Marcelo Araujo (Bosch)
+- [Marcelo Araujo (Bosch)](mailto:marcelo.araujo4@us.bosch.com)
