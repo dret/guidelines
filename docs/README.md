@@ -20,7 +20,7 @@
 * [Canada Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249): [Mandatory Procedures for Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=D)
 * [Cisco Guidelines for designing REST APIs](https://github.com/CiscoDevNet/api-design-guide)
 * [Cloud Foundry Style Guide for Cloud Controller v3 API](https://github.com/cloudfoundry/cc-api-v3-style-guide)
-* Dutch API Design Rules: [API Design Rules](https://geonovum.github.io/API-Designrules/) and [API Design Rules Extensions](https://geonovum.github.io/KP-APIs/API-strategie-extensies)
+* Dutch API Design Rules: [API Design Rules](https://publicatie.centrumvoorstandaarden.nl/api/adr/) and [API Design Rules Extensions](https://geonovum.github.io/KP-APIs/API-strategie-extensies)
 * [Google API Design Guide](https://cloud.google.com/apis/design/)
 * [Google API Improvement Proposals](https://google.aip.dev/)
 * [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide)
