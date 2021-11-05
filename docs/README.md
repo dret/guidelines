@@ -25,6 +25,7 @@
 * [Google API Improvement Proposals](https://google.aip.dev/)
 * [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide)
 * [Heroku HTTP API Design Guide](https://github.com/interagent/http-api-design)
+* [Italian Interoperability Guidelines for the Public Administration](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs) ([Online Validator](https://italia.github.io/api-oas-checker/))
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md )
 * [PayPal API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 * [White House Web API Standards](https://github.com/WhiteHouse/api-standards)
