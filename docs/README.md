@@ -29,5 +29,6 @@
 * [Italian Interoperability Guidelines for the Public Administration](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs) ([Online Validator](https://italia.github.io/api-oas-checker/))
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md )
 * [PayPal API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+* [UC Berkeley API Best Practices](https://integration-services.berkeley.edu/integration-competency-center/api-best-practices)
 * [White House Web API Standards](https://github.com/WhiteHouse/api-standards)
 * [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
