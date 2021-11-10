@@ -17,6 +17,7 @@
 * [Australian Digital Transformation Office](https://apiguide.readthedocs.io/en/latest/)
 * [Australian National API Design Standards (NAPIDS)](https://api.gov.au/standards/national_api_standards/)
 * [Belgium G-Cloud REST Guidelines](https://www.gcloud.belgium.be/rest/)
+* [Box OpenAPI 3.0 Specification with Contribution Guidelines](https://github.com/box/box-openapi)
 * [Canada Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249): [Mandatory Procedures for Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=D)
 * [Cisco Guidelines for designing REST APIs](https://github.com/CiscoDevNet/api-design-guide)
 * [Cloud Foundry Style Guide for Cloud Controller v3 API](https://github.com/cloudfoundry/cc-api-v3-style-guide)
