@@ -12,7 +12,7 @@
 
 * [Adello API Styleguide](https://github.com/adello/api-style-guide)
 * [Adidas API Guidelines](https://github.com/adidas/api-guidelines)
-* [APIOps Cycles REST API Design Guide](https://www.apiopscycles.com/rest-api-design-guide)
+* [APIOps Cycles REST API Design Guide](https://www.apiopscycles.com/resources/rest-api-design-guide)
 * [Atlassian REST API design guidelines](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/)
 * [Australian Digital Transformation Office](https://apiguide.readthedocs.io/en/latest/)
 * [Australian National API Design Standards (NAPIDS)](https://api.gov.au/standards/national_api_standards/)
