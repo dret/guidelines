@@ -16,7 +16,7 @@
 * [Atlassian REST API design guidelines](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/)
 * [Australian Digital Transformation Office](https://apiguide.readthedocs.io/en/latest/)
 * [Australian National API Design Standards (NAPIDS)](https://api.gov.au/standards/national_api_standards/)
-* [Belgium G-Cloud REST Guidelines](https://www.gcloud.belgium.be/rest/)
+* [Belgian Interoperability Framework (BELGIF) REST Guidelines](https://www.belgif.be/specification/rest/api-guide/)
 * [Box OpenAPI 3.0 Specification with Contribution Guidelines](https://github.com/box/box-openapi)
 * [Canada Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249): [Mandatory Procedures for Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249&section=procedure&p=D)
 * [Cisco Guidelines for designing REST APIs](https://github.com/CiscoDevNet/api-design-guide)
