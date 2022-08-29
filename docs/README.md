@@ -30,6 +30,7 @@
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md )
 * [Netapp RESTful API Developer Guidelines](https://cobra.netapp.com/guide/)
 * [PayPal API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+* [SPS Commerce REST API Standards](https://spscommerce.github.io/sps-api-standards/)
 * [UC Berkeley API Best Practices](https://integration-services.berkeley.edu/integration-competency-center/api-best-practices)
 * [White House Web API Standards](https://github.com/WhiteHouse/api-standards)
 * [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
