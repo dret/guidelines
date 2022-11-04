@@ -6,6 +6,7 @@
 ## Compilations
 
 * [API Stylebook](http://apistylebook.com/design/guidelines/)
+* [Stoplight's collection of API guidelines supported by Spectral rulesets](https://github.com/stoplightio/spectral-rulesets)
 
 
 ## Individual Guidelines
