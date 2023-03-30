@@ -30,6 +30,7 @@
 * [Italian Interoperability Guidelines for the Public Administration](https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs) ([Online Validator](https://italia.github.io/api-oas-checker/))
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md )
 * [Netapp RESTful API Developer Guidelines](https://cobra.netapp.com/guide/)
+* [OTTO API Guidelines](https://api.otto.de/portal/guidelines)
 * [PayPal API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 * [SPS Commerce REST API Standards](https://spscommerce.github.io/sps-api-standards/)
 * [UC Berkeley API Best Practices](https://integration-services.berkeley.edu/integration-competency-center/api-best-practices)
