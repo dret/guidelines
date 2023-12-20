@@ -36,3 +36,5 @@
 * [UC Berkeley API Best Practices](https://integration-services.berkeley.edu/integration-competency-center/api-best-practices)
 * [White House Web API Standards](https://github.com/WhiteHouse/api-standards)
 * [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+
+For additions or corrections, please [raise an issue](https://github.com/dret/guidelines/issues) on [the GitHub repo](https://github.com/dret/guidelines). Thanks!
